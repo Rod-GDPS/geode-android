@@ -17,7 +17,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.geode.launcher"
+        applicationId = "com.omgrod.launcher"
         minSdk = 23
         targetSdk = 35
         versionCode = 20
@@ -85,7 +85,7 @@ android {
             path = file("src/main/cpp/CMakeLists.txt")
         }
     }
-    namespace = "com.geode.launcher"
+    namespace = "com.omgrod.launcher"
     ndkVersion = "27.2.12479018"
 }
 

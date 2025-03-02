@@ -14,7 +14,7 @@ import android.view.Surface
 import android.view.inputmethod.InputMethodManager
 import androidx.annotation.RequiresApi
 import com.customRobTop.BaseRobTopActivity
-import com.geode.launcher.utils.GeodeUtils
+import com.omgrod.launcher.utils.GeodeUtils
 
 private const val HANDLER_OPEN_IME_KEYBOARD = 2
 private const val HANDLER_CLOSE_IME_KEYBOARD = 3
